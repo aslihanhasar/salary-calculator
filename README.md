@@ -35,7 +35,7 @@ Program output for employers and their new salaries will be as:
 
 ## Installation
 Clone the project.
-> https://github.com/miyendisa/grading-system.git
+> https://github.com/miyendisa/salary-calculator.git
 
 ---
 
