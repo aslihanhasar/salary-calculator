@@ -54,6 +54,6 @@ public class Calculation {
         System.out.println("Your bonus earnings: " + bonus() + " $");
         System.out.println("The increase in your salary: " + raiseSalary() + " $");
         System.out.println("Your current salary with bonus and taxes: " + totalBonusTax() + " $");
-        System.out.println("Your current annual salary: " + totalCurrentSalary() + " $");
+        System.out.println("Your current monthly salary: " + totalCurrentSalary() + " $");
     }
 }
